@@ -13,3 +13,14 @@ automatically stay up-to-date with your remote repository?
   working with someone else and they were making conflicting changes while you
   were working on your local repository. I think it's best to work on merging
   changes when you are ready.
+
+Describe the differences between forks, clones, and branches. When would you use
+one instead of another?
+
+  Forks are clones that are done only on GitHubs servers. This would be done
+  when you want to work on a repository but you don't have the permission to
+  edit it directly.
+
+  Clones are copies of a repository created on a local repository.
+
+  Branches are copies done within a repository.
